@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil de emanuelemontengro 😁
+## Bem-vindo(a) ao perfil de emanuelemontenegro 😁
 
  <div>
-   <a href="https://github.com/emanuelemontengro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelemontengro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelemontengro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/emanuelemontenegro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelemontenegro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelemontenegro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
